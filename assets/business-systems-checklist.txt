@@ -1,0 +1,32 @@
+GOEVY SOLUTIONS
+BUSINESS SYSTEMS READINESS CHECKLIST
+Better systems. Better decisions. Better ways of working.
+
+For each question, mark: Clear / Needs attention / Not sure.
+
+PEOPLE
+1. Does every important workflow have a clear owner?
+2. Can someone follow the process without relying on one person's memory?
+
+PROCESSES
+3. Are the inputs, handovers, and completion criteria documented?
+4. Do you know where work waits, repeats, or regularly fails?
+5. Is there a clear route for handling exceptions?
+
+TECHNOLOGY
+6. Do your systems support the way teams need to work?
+7. Is information entered once and available where it is needed?
+
+DATA & DECISIONS
+8. Are your key measures defined consistently, with an owner and data source?
+9. Does reporting lead to a decision, an action, and a follow-up?
+
+CONTINUOUS IMPROVEMENT
+10. Does the team review what is working and agree the next improvement?
+
+YOUR NEXT STEP
+Choose one priority process. Write down the challenge, its owner, the
+outcome you want, and one measure that would show progress.
+
+Discuss your priorities: admin@goevysolutions.org
+This checklist is a discussion aid, not a scored assessment.
